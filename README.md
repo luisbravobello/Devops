@@ -9,7 +9,7 @@ Mi camino DevOps: flujo completo funcionando, labs reales y proyectos de 0 a 100
 ## Progreso
 
 | Fase | Estado |
-|---|---|
+| --- | --- |
 | Repo + ambiente Linux + Docker | ✅ |
 | CI con GitHub Actions | ⬜ |
 | Dockerizar app | ⬜ |
